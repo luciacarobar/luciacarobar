@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 
 
 ## GitStats 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaulArcos&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luciacarobar&show_icons=true&theme=tokyonight)
 
 ## Languages 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaulArcos&layout=compact&theme=tokyonight)](https://github.com/Lagaress/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luciacarobar&layout=compact&theme=tokyonight)](https://github.com/Lagaress/github-readme-stats)
 
 ## Contact Me
 <p align="left" >
